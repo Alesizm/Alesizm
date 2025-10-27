@@ -8,7 +8,7 @@
 <h3 align="left">İletişim:</h3>
 <p align="left">
 <a href="https://instagram.com/yigitflowx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yigitflowx" height="30" width="40" /></a>
-<a href="https://discord.gg/users/898976436130549861" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alesizm" height="30" width="40" /></a>
+<a href="https://discord.gg/users/sanallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alesizm" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alesizm&show_icons=true&locale=en&layout=compact" alt="alesizm" /></p>
