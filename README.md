@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, Ben Ales</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alesizm&label=Profile%20views&color=0e75b6&style=flat" alt="alesizm" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alesizm&label=Profile%20views&color=A020F0&style=flat" alt="alesizm" /> </p>
 
 
 <h3 align="left">Languages I Know:</h3>
