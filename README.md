@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, Ben Ales</h1>
+<h1 align="center">Hi 👋, I am Ales</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alesizm&label=Profile%20views&color=A020F0&style=flat" alt="alesizm" /> </p>
 
 
